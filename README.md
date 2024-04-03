@@ -20,7 +20,7 @@ This project aims to recreate the functionality of NetCat in a Server-Client Arc
 ./TCPChat [port]
 ```
 
-4. Run clients to connect to the server:
+Run clients to connect to the server:
 
 ```bash
 ./TCPChatClient [server_address] [server_port] [client_name]
